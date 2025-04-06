@@ -1,16 +1,41 @@
-# Hiring-Remote-Job
-You found me, so it's meant to be! We're hiring an awesome Azure DevOps Engineer  - 100% remote
-#H1 We'd be searching for you if you are:
-bullet 1 ✔ Fluent in English
-✔ Based in Colombia or Mexico
-✔ Interested in remote opportunities
-✔ Available to work according to US timezone
-✔ Interested in working with B-Yond (https://www.b-yond.com/), an American company (howdy mate)
-✔ Skilled in Azure DevOps and Shell Scripting
-✔ Also skilled in Key Vault (AKV), Container Registry (ACR), CLI, YAML, JSON, Kubernetes, Terraform, Ansible
+# 🌍 Hiring – Remote Azure DevOps Engineer
 
-You want the job description of course! Here it is on this link: https://www.linkedin.com/jobs/view/4201989357
-➥ Apply directly if you're based in Colombia
-➥ Reach out to me on LinkedIn to express your interest if you're in Mexico (if you apply, the system will automatically reject your profile as you're outside the country that is Colombia): https://www.linkedin.com/in/rayane-el-medawar/
+You found me, so it's meant to be!  
+We're hiring an awesome **Azure DevOps Engineer** – 100% remote.
 
-Excited to welcome you onboard champion!
+---
+
+## ✅ We're looking for someone who is:
+
+- Fluent in English  
+- Based in **Colombia** or **Mexico**  
+- Interested in remote opportunities  
+- Available to work according to **US time zones**  
+- Excited to work with [B-Yond](https://www.b-yond.com/), an American company (howdy mate!)  
+- Skilled in **Azure DevOps** and **Shell Scripting**  
+- Also experienced with:
+  - Azure Key Vault (AKV)  
+  - Azure Container Registry (ACR)  
+  - Azure CLI  
+  - YAML & JSON  
+  - Kubernetes  
+  - Terraform  
+  - Ansible
+
+---
+
+## 📄 Job Description
+
+[Click here to view the full job post on LinkedIn](https://www.linkedin.com/jobs/view/4201989357)
+
+---
+
+## 🚀 How to Apply
+
+- If you're **based in Colombia**:  
+  ➥ Apply directly through the LinkedIn link above.
+
+- If you're **based in Mexico**:  
+  ➥ Reach out to me on LinkedIn to express your interest:  
+  [https://www.linkedin.com/in/rayane-el-medawar/](https://www.linkedin.com/in/rayane-el-medawar/)  
+  *(Note: the system will automatically reject applications from outside Colombia, but we’re still open to you!)*
