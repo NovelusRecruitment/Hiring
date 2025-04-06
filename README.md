@@ -1,11 +1,11 @@
 # Hiring-Remote-Job
 You found me, so it's meant to be! We're hiring an awesome Azure DevOps Engineer  - 100% remote
-We'd be searching for you if you are:
-✔ Fluent in English
+#H1 We'd be searching for you if you are:
+bullet 1 ✔ Fluent in English
 ✔ Based in Colombia or Mexico
 ✔ Interested in remote opportunities
 ✔ Available to work according to US timezone
-✔ Interested in working with an American company (howdy mate)
+✔ Interested in working with B-Yond (https://www.b-yond.com/), an American company (howdy mate)
 ✔ Skilled in Azure DevOps and Shell Scripting
 ✔ Also skilled in Key Vault (AKV), Container Registry (ACR), CLI, YAML, JSON, Kubernetes, Terraform, Ansible
 
