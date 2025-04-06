@@ -1,5 +1,5 @@
 # Hiring-Remote-Job
-You found me, so it's meant to be! We're hiring an awesome Azure DevOps Engineer  - 100% remote
+You found me, so it's meant to be! We're hiring an awesome Azure DevOps Engineer  - 100% remote &
 We'd be searching for you if you are:
 ✔ Fluent in English
 ✔ Based in Colombia or Mexico
