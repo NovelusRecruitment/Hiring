@@ -39,3 +39,6 @@ We're hiring an awesome **Azure DevOps Engineer** – 100% remote.
   ➥ Reach out to me on LinkedIn to express your interest:  
   [https://www.linkedin.com/in/rayane-el-medawar/](https://www.linkedin.com/in/rayane-el-medawar/)  
   *(Note: the system will automatically reject applications from outside Colombia, but we’re still open to you!)*
+---
+
+**Excited to welcome you onboard, champion!**
